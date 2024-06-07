@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabiden</h1>
-<h3 align="center">First-year Computer science student from Kazakshtan</h3>
+<h3 align="center">First-year Computer science student from Asia, Kazakshtan 🇰🇿</h3>
 
 <h3 align="left">
   My last projects:
