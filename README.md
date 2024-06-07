@@ -7,6 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/wakemeupat5am/bestAIAssistant">🤖 Best AI Assistant</a>
+  - From April 27, 2024
 </p>
 
 <h3 align="left">Languages:</h3>
