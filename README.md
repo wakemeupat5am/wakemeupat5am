@@ -28,7 +28,7 @@
 <h3 align="left">Robotics</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.raspberrypi.com/"><img src="https://upload.wikimedia.org/wikipedia/ru/c/cb/Raspberry_Pi_Logo.svg"></a>
+  <a href="https://www.raspberrypi.com/"><img src="https://upload.wikimedia.org/wikipedia/ru/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry pi" width="40" height="40"></a>
   
 </p>
 <h3 align="left">Other</h3>
