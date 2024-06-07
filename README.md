@@ -6,7 +6,7 @@
 </h3>
 
 <p align="left">
-  
+  <a href="https://github.com/wakemeupat5am/bestAIAssistant">🤖 Best AI Assistant</a>
 </p>
 
 <h3 align="left">Languages:</h3>
