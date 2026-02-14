@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-<img src="Снимок экрана 2026-02-14 113056.png">
+<img src="big1.png">
 </div>
 <h1 align="center">Hi 👋, I'm Gabiden</h1>
 <h3 align="center">Computer science student from Asia, Kazakshtan 🇰🇿</h3>
