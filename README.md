@@ -8,8 +8,8 @@
 </h3>
 
 <p align="left" style="font-size: 64px">
-  <a href="https://github.com/wakemeupat5am/netrat">👓 NetRat Recon tool</a> - From February 12, 2026 <br>
-  <a href="https://github.com/wakemeupat5am/bestAIAssistant">🤖 Best AI Assistant</a>
+  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px">👓 NetRat Recon tool</a> - From February 12, 2026 <br>
+  <a href="https://github.com/wakemeupat5am/bestAIAssistant" style="font-size: 64px">🤖 Best AI Assistant</a>
   - From April 27, 2024
 </p>
 
