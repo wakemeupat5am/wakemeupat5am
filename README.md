@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Gabiden</h1>
 <h3 align="center">Computer science student from Asia, Kazakshtan 🇰🇿</h3>
 
-<h3 align="left">
+<h2 align="left">
   My last projects:
 </h3>
 
-<p align="left">
+<p align="left" style="font-size: 34px">
   <a href="https://github.com/wakemeupat5am/netrat">👓 NetRat Recon tool</a> - From February 12, 2026 <br>
   <a href="https://github.com/wakemeupat5am/bestAIAssistant">🤖 Best AI Assistant</a>
   - From April 27, 2024
