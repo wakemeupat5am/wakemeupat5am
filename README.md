@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gabiden</h1>
 <h3 align="center">Computer science student from Asia, Kazakshtan 🇰🇿</h3>
 
-<h2 align="left">
+<h1 align="left">
   My last projects:
 </h3>
 
