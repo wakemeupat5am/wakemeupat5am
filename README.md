@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center;">
 </div>
 <h1 align="center">Hi 👋, I'm Gabiden</h1>
-<h3 align="center">Computer science student from Asia, Kazakshtan 🇰🇿</h3>
+<h3 align="center">Cybersecurity Student | Aspiring Pentester | Linux • Python • Networking</h3>
 
 <h1 align="left">
   My last projects:
