@@ -19,9 +19,9 @@ I build small security tools and experiment with automation to understand how re
 </h2>
 
 <p align="left" style="font-size: 64px;">
-  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px;">👓 Simple Recon tool</a> — Bash wrapper around Whois and Nmap with table view <br>
+  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px;">👓 Simple Recon tool</a> — A lightweight reconnaissance utility written in Bash that simplifies the process of gathering basic information about domains and hosts. <br>
   <a href="https://github.com/wakemeupat5am/bestAIAssistant" style="font-size: 64px;">🤖 Best AI Assistant</a>
-  — Simple AI helper for science researches
+  — A minimalistic AI-powered assistant designed to help with scientific research and knowledge exploration.
 </p>
 
 ## 💻 Tech Stack: 
