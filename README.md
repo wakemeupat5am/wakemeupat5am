@@ -7,10 +7,10 @@
 I work mainly with Linux environments and Python, building small security tools and learning practical vulnerability analysis.
 <br>
 Current interests: <br>
-• Network enumeration <br>
-• Vulnerability research (CVE) <br>
-• OSINT <br>
-• Pentesting methodology <br>
+— Network enumeration <br>
+— Vulnerability research (CVE) <br>
+— OSINT <br>
+— Pentesting methodology <br>
 <br>
 I build small security tools and experiment with automation to understand how real attacks and defenses work.
 </p>
@@ -19,9 +19,9 @@ I build small security tools and experiment with automation to understand how re
 </h2>
 
 <p align="left" style="font-size: 64px;">
-  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px;">👓 Simple Recon tool</a> - Bash wrapper around Whois and Nmap with table view <br>
+  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px;">👓 Simple Recon tool</a> — Bash wrapper around Whois and Nmap with table view <br>
   <a href="https://github.com/wakemeupat5am/bestAIAssistant" style="font-size: 64px;">🤖 Best AI Assistant</a>
-  - Simple AI helper for science researches
+  — Simple AI helper for science researches
 </p>
 
 # 💻 Tech Stack:
