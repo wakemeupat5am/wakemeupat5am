@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: center;">
 </div>
-<h1 align="center">Hi 👋, I'm Gabiden</h1>
+<h1 align="center">Hi 👋, I'm Gabiden Sagintay</h1>
 
-<h3>Computer Science student from Kazakhstan focused on cybersecurity and penetration testing. </h3>
+<h2>Computer Science student from Kazakhstan focused on cybersecurity and penetration testing. </h2>
 <p>
 I work mainly with Linux environments and Python, building small security tools and learning practical vulnerability analysis.
 <br>
@@ -14,14 +14,14 @@ Current interests: <br>
 <br>
 I build small security tools and experiment with automation to understand how real attacks and defenses work.
 </p>
-<h1 align="left">
+<h2 align="left">
   My last projects:
-</h3>
+</h2>
 
 <p align="left" style="font-size: 64px;">
-  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px;">👓 Simple Recon tool</a> - From February 12, 2026 <br>
+  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px;">👓 Simple Recon tool</a> - Bash wrapper around Whois and Nmap with table view <br>
   <a href="https://github.com/wakemeupat5am/bestAIAssistant" style="font-size: 64px;">🤖 Best AI Assistant</a>
-  - From April 27, 2024
+  - Simple AI helper for science researches
 </p>
 
 # 💻 Tech Stack:
