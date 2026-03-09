@@ -1,8 +1,19 @@
 <div style="display: flex; justify-content: center;">
 </div>
 <h1 align="center">Hi 👋, I'm Gabiden</h1>
-<h3 align="center">Cybersecurity Student | Aspiring Pentester | Linux • Python • Networking</h3>
 
+<h3>Computer Science student from Kazakhstan focused on cybersecurity and penetration testing. </h3>
+<p>
+I work mainly with Linux environments and Python, building small security tools and learning practical vulnerability analysis.
+
+Current interests:
+• Network enumeration
+• Vulnerability research (CVE)
+• OSINT
+• Pentesting methodology
+
+I build small security tools and experiment with automation to understand how real attacks and defenses work.
+</p>
 <h1 align="left">
   My last projects:
 </h3>
