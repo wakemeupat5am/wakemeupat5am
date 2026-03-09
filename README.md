@@ -18,9 +18,10 @@ I build small security tools and experiment with automation to understand how re
  💼 My last projects:
 </h2>
 
-<p align="left" style="font-size: 64px;">
-  <a href="https://github.com/wakemeupat5am/netrat" style="font-size: 64px;">👓 Simple Recon tool</a> — A lightweight reconnaissance utility written in Bash that simplifies the process of gathering basic information about domains and hosts. <br>
-  <a href="https://github.com/wakemeupat5am/bestAIAssistant" style="font-size: 64px;">🤖 Best AI Assistant</a>
+<p align="left">
+  <a href="https://github.com/wakemeupat5am/cyberdorm">🐛 Cyberdorm</a> — network scanning tool designed to enumerate hosts in a subnet, perform port scanning, and identify known vulnerabilities using a local CVE database.<br>
+  <a href="https://github.com/wakemeupat5am/netrat">👓 Simple Recon tool</a> — A lightweight reconnaissance utility written in Bash that simplifies the process of gathering basic information about domains and hosts. <br>
+  <a href="https://github.com/wakemeupat5am/bestAIAssistant">🤖 Best AI Assistant</a>
   — A minimalistic AI-powered assistant designed to help with scientific research and knowledge exploration.
 </p>
 
