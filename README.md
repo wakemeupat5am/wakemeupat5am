@@ -2,7 +2,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Gabiden Sagintay</h1>
 
-<h2>Computer Science student from Kazakhstan focused on cybersecurity and penetration testing. </h2>
+<h2>⭐ Computer Science student from Kazakhstan focused on cybersecurity and penetration testing. </h2>
 <p>
 I work mainly with Linux environments and Python, building small security tools and learning practical vulnerability analysis.
 <br>
@@ -15,7 +15,7 @@ Current interests: <br>
 I build small security tools and experiment with automation to understand how real attacks and defenses work.
 </p>
 <h2 align="left">
-  My last projects:
+ 💼 My last projects:
 </h2>
 
 <p align="left" style="font-size: 64px;">
