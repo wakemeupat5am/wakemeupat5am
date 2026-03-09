@@ -7,10 +7,10 @@
 I work mainly with Linux environments and Python, building small security tools and learning practical vulnerability analysis.
 
 Current interests:
-• Network enumeration
-• Vulnerability research (CVE)
-• OSINT
-• Pentesting methodology
+• Network enumeration \n
+• Vulnerability research (CVE) \n
+• OSINT \n
+• Pentesting methodology \n
 
 I build small security tools and experiment with automation to understand how real attacks and defenses work.
 </p>
