@@ -5,13 +5,13 @@
 <h3>Computer Science student from Kazakhstan focused on cybersecurity and penetration testing. </h3>
 <p>
 I work mainly with Linux environments and Python, building small security tools and learning practical vulnerability analysis.
-
-Current interests:
-• Network enumeration \n
-• Vulnerability research (CVE) \n
-• OSINT \n
-• Pentesting methodology \n
-
+<br>
+Current interests: <br>
+• Network enumeration <br>
+• Vulnerability research (CVE) <br>
+• OSINT <br>
+• Pentesting methodology <br>
+<br>
 I build small security tools and experiment with automation to understand how real attacks and defenses work.
 </p>
 <h1 align="left">
