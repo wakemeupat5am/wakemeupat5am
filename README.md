@@ -19,7 +19,7 @@ I build small security tools and experiment with automation to understand how re
 </h2>
 
 <p align="left">
- <a href="https://github.com/wakemeupat5am/cyberdorm">⛺ EZbuster</a> — A simple and fast directory brute-forcing tool for web servers.<br>
+ <a href="https://github.com/wakemeupat5am/ezbuster">⛺ EZbuster</a> — A simple and fast directory brute-forcing tool for web servers.<br>
   <a href="https://github.com/wakemeupat5am/cyberdorm">🐛 Cyberdorm</a> — network scanning tool designed to enumerate hosts in a subnet, perform port scanning, and identify known vulnerabilities using a local CVE database.<br>
   <a href="https://github.com/wakemeupat5am/netrat">👓 Simple Recon tool</a> — A lightweight reconnaissance utility written in Bash that simplifies the process of gathering basic information about domains and hosts. <br>
   <a href="https://github.com/wakemeupat5am/bestAIAssistant">🤖 Best AI Assistant</a>
